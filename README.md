@@ -6,10 +6,10 @@ Methods of detecting, tracking, counting, and estimating the speed of the vehicl
 
 ## Features
 
-YoloV8
-Tracking by using DeepSORT
-Script also counts the vehicles crossing the line in the video
-Formula for estimate the speed
+* YoloV8
+* Tracking by using DeepSORT
+* Script also counts the vehicles crossing the line in the video
+* Formula for estimate the speed
 
 https://github.com/user-attachments/assets/06ca8028-07eb-4394-94e4-294b8a2278f4
 
